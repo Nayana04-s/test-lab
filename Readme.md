@@ -1,1 +1,1 @@
-This file is a in remote repository.
+This file is in a remote repository.
